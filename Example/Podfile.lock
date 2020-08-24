@@ -4,24 +4,24 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - testPod (0.1.0)
+  - FullNameGenerator (0.1.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
-  - testPod (from `../`)
+  - FullNameGenerator (from `../`)
 
 SPEC REPOS:
   trunk:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
-  testPod:
+  FullNameGenerator:
     :path: "../"
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  testPod: 95af5c5eeef052e02b3b977ac6a542bd5b07475a
+  FullNameGenerator: 333b6e2a15f5bcc897d203e2a3393a03bfb109e2
 
-PODFILE CHECKSUM: 876ad9396a4bbea4ed8f450f01f874ca6a627dbf
+PODFILE CHECKSUM: 99eda5bd792469e542c037023aac83a48ee1d715
 
 COCOAPODS: 1.9.3

@@ -332,11 +332,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-testPod_Example/Pods-testPod_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/testPod/testPod.framework",
+				"${BUILT_PRODUCTS_DIR}/FullNameGenerator/FullNameGenerator.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/testPod.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FullNameGenerator.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

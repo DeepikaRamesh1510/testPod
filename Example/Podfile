@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'testPod_Example' do
-  pod 'testPod', :path => '../'
+  pod 'FullNameGenerator', :path => '../'
 
   target 'testPod_Tests' do
     inherit! :search_paths

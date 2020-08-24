@@ -1,5 +1,5 @@
 import XCTest
-import testPod
+import FullNameGenerator
 
 class Tests: XCTestCase {
     

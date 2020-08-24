@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## testPod
+## FullNameGenerator
 
 Copyright (c) 2020 DeepikaRamesh1510 <deepika.ram@anywhere.co>
 

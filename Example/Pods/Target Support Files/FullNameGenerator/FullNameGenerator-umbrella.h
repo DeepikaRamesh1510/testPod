@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double testPodVersionNumber;
-FOUNDATION_EXPORT const unsigned char testPodVersionString[];
+FOUNDATION_EXPORT double FullNameGeneratorVersionNumber;
+FOUNDATION_EXPORT const unsigned char FullNameGeneratorVersionString[];
 

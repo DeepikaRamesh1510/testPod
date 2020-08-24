@@ -1,0 +1,6 @@
+framework module FullNameGenerator {
+  umbrella header "FullNameGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}
